@@ -1,0 +1,71 @@
+[
+  {
+    "rusName": "Российская Федерация",
+    "engName": "Rossiyskaya Federatsiya",
+    "code": "7",
+    "currencyCode": "RUB",
+    "cities": [
+      {
+        "rusName": "Москва",
+        "engName": "Moscow",
+        "population": 15512000
+      },
+      {
+        "rusName": "Новосибирск",
+        "engName": "Novosibirsk",
+        "population": 1602915
+      },
+      {
+        "rusName": "Томск",
+        "engName": "Tomsk",
+        "population": 573647
+      }
+    ]
+  },
+  {
+    "rusName": "Соединённое Королевство Великобритании и Северной Ирландии",
+    "engName": "The United Kingdom of Great Britain and Northern Ireland",
+    "code": "GBP",
+    "currencyCode": "826",
+    "cities": [
+      {
+        "rusName": "Лондон",
+        "engName": "London",
+        "population": 8538689
+      },
+      {
+        "rusName": "Манчестер",
+        "engName": "Manchester",
+        "population": 2240230
+      },
+      {
+        "rusName": "Бат",
+        "engName": "Bath",
+        "population": 83992
+      }
+    ]
+  },
+  {
+    "rusName": "Берлин",
+    "engName": "Germany",
+    "code": "49",
+    "currencyCode": "EUR",
+    "cities": [
+      {
+        "rusName": "Берлин",
+        "engName": "Berlin",
+        "population": 3460725
+      },
+      {
+        "rusName": "Гамбург",
+        "engName": "Hamburg",
+        "population": 1786448
+      },
+      {
+        "rusName": "Мюнхен",
+        "engName": "Munchen",
+        "population": 1353186
+      }
+    ]
+  }
+]

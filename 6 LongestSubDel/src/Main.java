@@ -14,7 +14,7 @@ public class Main {
        // BufferedReader reader = new BufferedReader(new FileReader("input.txt"));
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        int n = Integer.parseInt(reader.readLine());w
+        int n = Integer.parseInt(reader.readLine());
         String[] tokens = reader.readLine().split(" ");
         int[] array = new int[n];
         for (int i = 0; i < n; ++i){

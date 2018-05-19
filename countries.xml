@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country>
+        <rusName>Российская Федерация</rusName>
+        <engName>Rossiyskaya Federatsiya</engName>
+        <code>7</code>
+        <currencyCode>RUB</currencyCode>
+        <cities>
+            <city>
+                <rusName>Москва</rusName>
+                <engName>Moscow</engName>
+                <population>15512000</population>
+            </city>
+            <city>
+                <rusName>Новосибирск</rusName>
+                <engName>Novosibirsk</engName>
+                <population>1602915</population>
+            </city>
+            <city>
+                <rusName>Томск</rusName>
+                <engName>Tomsk</engName>
+                <population>573647</population>
+            </city>
+        </cities>
+    </country>
+    <country>
+        <rusName>Соединённое Королевство Великобритании и Северной Ирландии</rusName>
+        <engName>The United Kingdom of Great Britain and Northern Ireland</engName>
+        <code>GBP</code>
+        <currencyCode>826</currencyCode>
+        <cities>
+            <city>
+                <rusName>Лондон</rusName>
+                <engName>London</engName>
+                <population>8538689</population>
+            </city>
+            <city>
+                <rusName>Манчестер</rusName>
+                <engName>Manchester</engName>
+                <population>2240230</population>
+            </city>
+            <city>
+                <rusName>Бат</rusName>
+                <engName>Bath</engName>
+                <population>83992</population>
+            </city>
+        </cities>
+    </country>
+    <country>
+        <rusName>Берлин</rusName>
+        <engName>Germany</engName>
+        <code>49</code>
+        <currencyCode>EUR</currencyCode>
+        <cities>
+            <city>
+                <rusName>Берлин</rusName>
+                <engName>Berlin</engName>
+                <population>3460725</population>
+            </city>
+            <city>
+                <rusName>Гамбург</rusName>
+                <engName>Hamburg</engName>
+                <population>1786448</population>
+            </city>
+            <city>
+                <rusName>Мюнхен</rusName>
+                <engName>Munchen</engName>
+                <population>1353186</population>
+            </city>
+        </cities>
+    </country>
+</countries>
