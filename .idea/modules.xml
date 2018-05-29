@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10 simpleStructures/10 priorityQues.iml" filepath="$PROJECT_DIR$/10 simpleStructures/10 priorityQues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 simpleStructures/10 simpleStructures.iml" filepath="$PROJECT_DIR$/10 simpleStructures/10 simpleStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 PriorityQues and Sets/11 PriorityQues and Sets.iml" filepath="$PROJECT_DIR$/11 PriorityQues and Sets/11 PriorityQues and Sets.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 Bag/4 Bag.iml" filepath="$PROJECT_DIR$/4 Bag/4 Bag.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 HuffmanCode/4 HuffmanCode.iml" filepath="$PROJECT_DIR$/4 HuffmanCode/4 HuffmanCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 HuffmanCodeDecode/4 HuffmanCodeDecode.iml" filepath="$PROJECT_DIR$/4 HuffmanCodeDecode/4 HuffmanCodeDecode.iml" />
